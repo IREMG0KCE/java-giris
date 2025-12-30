@@ -1,3 +1,4 @@
+//düşünme aşamasında
 public class JavaLearn2 {
     public void main(){
         int sayi1=10;

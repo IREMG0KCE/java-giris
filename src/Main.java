@@ -1,4 +1,5 @@
- import java.util.Arrays;
+//kullanıcıdan alınan iki sayının ortalaması
+import java.util.Arrays;
 import java.util.Scanner;// kullanıcıdan veri girişi almak için
 
 public class Main{

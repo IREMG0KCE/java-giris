@@ -1,4 +1,4 @@
-//üçgen çizme işlemleri
+//sembollerle desenler çizme işlemleri
 public class JavaLearn4 {
     public  void main(String[] args){
         //i satır j her satırda yazdırılcak yıldız simgesi adeti
